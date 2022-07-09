@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Atonye
 #### Data Analysis
-![Data Analysis](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 .I'm Atonye from Nigeria, In 2021 I started my transition from Chemical Engineering to Data Analysis. I really enjoy learning languages like Python, SQL and R. I also enjoy the data wrangling process, making sure data is clean, tidy and ready for analysis.
 
