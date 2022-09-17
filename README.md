@@ -3,9 +3,9 @@
 
 I'm Atonye from Nigeria, In 2021 I started my transition from Chemical Engineering to Data Analysis. I really enjoy learning languages like Python, SQL and R. I also enjoy the data wrangling process, making sure data is clean, tidy and ready for analysis.
 
-Skills: Python/ R/ SQL
+Skills: Python/ SQL/R/MS Excel/Tableau/Power BI
  
-- 🌱 I’m currently learning Udacity's Data Analyst Nanodegree Program 
+- 🌱 I’m currently learning new ways to analyze and visualize data.
 - 📫 How to reach me: atonye.foby@gmail.com 
 - 😄 Pronouns: She/Her 
 
